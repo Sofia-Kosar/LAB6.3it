@@ -15,7 +15,7 @@ namespace UnitTest63it
 			int a[] = { 8, 2, 3, 56, 5, 6 };
 			int n = 6;
 
-			double z = findMin2(a, n);
+			double z = findMin1(a, n);
 			Assert::AreEqual(z, 2.0);
 		}
 	};

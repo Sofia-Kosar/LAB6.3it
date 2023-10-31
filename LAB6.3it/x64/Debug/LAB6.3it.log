@@ -1,2 +1,3 @@
 ﻿  LAB6.3it.cpp
+D:\programyvanya\LAB6.3it\LAB6.3it\LAB6.3it.cpp(9,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   LAB6.3it.vcxproj -> D:\programyvanya\LAB6.3it\x64\Debug\LAB6.3it.exe
